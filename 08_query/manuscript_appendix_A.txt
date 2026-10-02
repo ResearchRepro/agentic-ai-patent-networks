@@ -1,0 +1,101 @@
+Appendix A provides the exact Lens.org Boolean search expression and the distinction between retrieval in August 2026 and the publication observation window ending on 17 August 2025. The search expression is intended for the Lens.org search interface and is distinct from a tested programmatic retrieval script. Public availability of supporting records and processing outputs does not itself establish that every historical network output can be reproduced from one version-matched release. Network edge lists, community memberships, normalization decisions, and execution scripts must be checked against the retained analytical version before a complete replication claim is made.
+
+7.4 Author Contributions
+
+Navid Mohammadi contributed to conceptualization, data curation, supervision, methodology development, interpretation of findings, and manuscript preparation. Mehrdad Maghsoudi contributed to conceptualization, data analysis, methodological implementation, interpretation of findings, and manuscript preparation. Both authors reviewed and approved the final manuscript and accept responsibility for its content.
+
+7.5 Ethics Statement
+
+This study analyzed publicly accessible patent records and did not involve human participants, clinical interventions, personally collected data, or animal subjects. Formal approval from a human-research or animal-research ethics committee was therefore not required.
+
+7.6 Generative AI Declaration
+
+OpenAI ChatGPT and Grammarly were used to assist with language editing, manuscript organization, and consistency checking. The authors reviewed the resulting text and remain responsible for its scientific content. These tools were not used to create empirical patent observations or to supply unperformed statistical results. Reported analyses and substantive interpretations remain the responsibility of the authors.
+
+References
+
+Abood, A., & Feltenberger, D. (2018). Automated patent landscaping. Artificial Intelligence and Law, 26(2), 103–125. https://doi.org/10.1007/s10506-018-9222-4
+
+Afifuddin, M., & Seo, W. (2024). Predictive modeling for technology convergence: A patent data-driven approach through technology topic networks. Computers & Industrial Engineering, 188, Article 109909. https://doi.org/10.1016/j.cie.2024.109909
+
+Anthropic. (2024, December 19). Building effective agents. https://www.anthropic.com/engineering/building-effective-agents
+
+Bastian, M., Heymann, S., & Jacomy, M. (2009). Gephi: An open source software for exploring and manipulating networks. Proceedings of the International AAAI Conference on Web and Social Media, 3(1), 361–362. https://doi.org/10.1609/icwsm.v3i1.13937
+
+Blei, D. M., Ng, A. Y., & Jordan, M. I. (2003). Latent Dirichlet allocation. Journal of Machine Learning Research, 3, 993–1022. https://www.jmlr.org/papers/v3/blei03a.html
+
+Blondel, V. D., Guillaume, J.-L., Lambiotte, R., & Lefebvre, E. (2008). Fast unfolding of communities in large networks. Journal of Statistical Mechanics: Theory and Experiment, 2008(10), Article P10008. https://doi.org/10.1088/1742-5468/2008/10/P10008
+
+Brohi, S., Mastoi, Q.-u.-a., Jhanjhi, N. Z., & Pillai, T. R. (2025). A research landscape of agentic AI and large language models: Applications, challenges and future directions. Algorithms, 18(8), Article 499. https://doi.org/10.3390/a18080499
+
+Brown, L. D., Cai, T. T., & DasGupta, A. (2001). Interval estimation for a binomial proportion. Statistical Science, 16(2), 101–133. https://doi.org/10.1214/ss/1009213286
+
+Brooks, R. A. (1991). Intelligence without representation. Artificial Intelligence, 47(1–3), 139–159. https://doi.org/10.1016/0004-3702(91)90053-M
+
+Chang, A.-C., & Lin, J.-S. (2024). Exploring technological applications through LDA-based patent mining: A metaverse ontology construction. World Patent Information, 79, Article 102314. https://doi.org/10.1016/j.wpi.2024.102314
+
+Danon, L., Díaz-Guilera, A., Duch, J., & Arenas, A. (2005). Comparing community structure identification. Journal of Statistical Mechanics: Theory and Experiment, 2005(09), Article P09008. https://doi.org/10.1088/1742-5468/2005/09/P09008
+
+Eisenstein, J. (2019). Introduction to natural language processing. MIT Press. https://mitpress.mit.edu/9780262042840/introduction-to-natural-language-processing/
+
+Fortunato, S. (2010). Community detection in graphs. Physics Reports, 486(3–5), 75–174. https://doi.org/10.1016/j.physrep.2009.11.002
+
+Hosseini, S., & Seilani, H. (2025). The role of agentic AI in shaping a smart future: A systematic review. Array, 26, Article 100399. https://doi.org/10.1016/j.array.2025.100399
+
+Howard, A. G., Zhu, M., Chen, B., Kalenichenko, D., Wang, W., Weyand, T., Andreetto, M., & Adam, H. (2017). MobileNets: Efficient convolutional neural networks for mobile vision applications. arXiv. https://doi.org/10.48550/arXiv.1704.04861
+
+Hussain, M. (2024). Sustainable machine vision for industry 4.0: A comprehensive review of convolutional neural networks and hardware accelerators in computer vision. AI, 5(3), 1324–1356. https://doi.org/10.3390/ai5030064
+
+Jacomy, M., Venturini, T., Heymann, S., & Bastian, M. (2014). ForceAtlas2, a continuous graph layout algorithm for handy network visualization designed for the Gephi software. PLOS ONE, 9(6), Article e98679. https://doi.org/10.1371/journal.pone.0098679
+
+Jefferson, O. A., Jaffe, A., Ashton, D., Warren, B., Koellhofer, D., Dulleck, U., Ballagh, A., Moe, J., DiCuccio, M., Ward, K., Bilder, G., Dolby, K., & Jefferson, R. A. (2018). Mapping the global influence of published research on industry and innovation. Nature Biotechnology, 36, 31–39. https://doi.org/10.1038/nbt.4049
+
+Jennings, N. R., Sycara, K., & Wooldridge, M. (1998). A roadmap of agent research and development. Autonomous Agents and Multi-Agent Systems, 1(1), 7–38. https://doi.org/10.1023/A:1010090405266
+
+Justeson, J. S., & Katz, S. M. (1995). Technical terminology: Some linguistic properties and an algorithm for identification in text. Natural Language Engineering, 1(1), 9–27. https://doi.org/10.1017/S1351324900000048
+
+Kaelbling, L. P., Littman, M. L., & Moore, A. W. (1996). Reinforcement learning: A survey. Journal of Artificial Intelligence Research, 4, 237–285. https://doi.org/10.1613/jair.301
+
+LeCun, Y., Bengio, Y., & Hinton, G. (2015). Deep learning. Nature, 521, 436–444. https://doi.org/10.1038/nature14539
+
+Maghsoudi, M., Mohammadi, N., Soghi, M., & Sabet, M. (2025). Technological trajectories in circular economy: Bridging patent analytics with sustainable development goals. Journal of Environmental Management, 379, Article 124752. https://doi.org/10.1016/j.jenvman.2025.124752
+
+Martínez, C. (2011). Patent families: When do different definitions really matter? Scientometrics, 86(1), 39–63. https://doi.org/10.1007/s11192-010-0251-3
+
+Mohammadi, N., Maghsoudi, M., & Soghi, M. (2024). Innovation ecosystems in retail: Uncovering technological trends and collaboration networks through patent mining. IEEE Access, 12, 186753–186778. https://doi.org/10.1109/ACCESS.2024.3515290
+
+Newman, M. E. J. (2006). Modularity and community structure in networks. Proceedings of the National Academy of Sciences, 103(23), 8577–8582. https://doi.org/10.1073/pnas.0601602103
+
+Oh, K., Choi, Y., & Hong, S. (2025). Patent landscape and innovation trajectories of mRNA vaccine technologies. World Patent Information, 82, Article 102382. https://doi.org/10.1016/j.wpi.2025.102382
+
+Plaat, A., van Duijn, M., van Stein, N., Preuss, M., van der Putten, P., & Batenburg, K. J. (2025). Agentic large language models, a survey. Journal of Artificial Intelligence Research, 84, Article 29. https://doi.org/10.1613/jair.1.18675
+
+Qiao, Y., Wang, X., Huang, Y., Zhang, S., & Yang, X. (2024). Tech mining approach for identifying potentially disruptive technologies: From the perspective of technological alternatives. IEEE Transactions on Engineering Management, 71, 5921–5938. https://doi.org/10.1109/TEM.2024.3369756
+
+Romeo, E., & Lacko, J. (2026). Adoption and integration of AI in organizations: A systematic review of challenges and drivers towards future directions of research. Kybernetes, 55(3), 1286–1307. https://doi.org/10.1108/K-07-2024-2002
+
+Schick, T., Dwivedi-Yu, J., Dessì, R., Raileanu, R., Lomeli, M., Hambro, E., Zettlemoyer, L., Cancedda, N., & Scialom, T. (2023). Toolformer: Language models can teach themselves to use tools. Advances in Neural Information Processing Systems, 36, 68539–68551. https://proceedings.neurips.cc/paper/2023/hash/d842425e4bf79ba039352da0f658a906-Abstract-Conference.html
+
+Sertkaya, A., McGeeney, J. D., Sullivan, C., Kolbe, A., Beleche, T., Murphy, S., Berlind, A., & Jessup, A. (2024). Assessing the state of antibacterial drug discovery through patent analysis. International Journal of Antimicrobial Agents, 63(2), Article 107051. https://doi.org/10.1016/j.ijantimicag.2023.107051
+
+Tan, M., & Le, Q. (2019). EfficientNet: Rethinking model scaling for convolutional neural networks. In K. Chaudhuri & R. Salakhutdinov (Eds.), Proceedings of the 36th International Conference on Machine Learning (Vol. 97, pp. 6105–6114). PMLR. https://proceedings.mlr.press/v97/tan19a.html
+
+Thirunavukarasu, A. J., Ting, D. S. J., Elangovan, K., Gutierrez, L., Tan, T. F., & Ting, D. S. W. (2023). Large language models in medicine. Nature Medicine, 29, 1930–1940. https://doi.org/10.1038/s41591-023-02448-8
+
+Wang, L., Ma, C., Feng, X., Zhang, Z., Yang, H., Zhang, J., Chen, Z., Tang, J., Chen, X., Lin, Y., Zhao, W. X., Wei, Z., & Wen, J.-R. (2024). A survey on large language model based autonomous agents. Frontiers of Computer Science, 18(6), Article 186345. https://doi.org/10.1007/s11704-024-40231-1
+
+Wooldridge, M., & Jennings, N. R. (1995). Intelligent agents: Theory and practice. The Knowledge Engineering Review, 10(2), 115–152. https://doi.org/10.1017/S0269888900008122
+
+Xi, X., Zhao, J., Yu, L., & Wang, C. (2024). Exploring the potentials of artificial intelligence towards carbon neutrality: Technological convergence forecasting through link prediction and community detection. Computers & Industrial Engineering, 190, Article 110015. https://doi.org/10.1016/j.cie.2024.110015
+
+Yao, S., Zhao, J., Yu, D., Du, N., Shafran, I., Narasimhan, K., & Cao, Y. (2023). ReAct: Synergizing reasoning and acting in language models. The Eleventh International Conference on Learning Representations. https://openreview.net/forum?id=WE_vluYUL-X
+
+Yap, M., Luo, D., Cats, O., van Oort, N., & Hoogendoorn, S. (2019). Where shall we sync? Clustering passenger flows to identify urban public transport hubs and their key synchronization priorities. Transportation Research Part C: Emerging Technologies, 98, 433–448. https://doi.org/10.1016/j.trc.2018.12.013
+
+Appendix A Exact Search Expression
+
+The supplied Lens.org search expression is reproduced below. The agent block explicitly specifies four fields. The enabling-capability block is unqualified and is not rewritten as a separate field-by-field condition. The recorded retrieval month is August 2026. The publication observation window is 1 January 2023 through 17 August 2025 and is distinct from the retrieval date.
+
+( title:("ai agent" OR "ai agents" OR "autonomous agent*" OR "software agent*" OR "intelligent agent*") OR abstract:("ai agent" OR "ai agents" OR "autonomous agent*" OR "software agent*" OR "intelligent agent*") OR claim:("ai agent" OR "ai agents" OR "autonomous agent*" OR "software agent*" OR "intelligent agent*") OR description:("ai agent" OR "ai agents" OR "autonomous agent*" OR "software agent*" OR "intelligent agent*") ) AND ( "large language model" OR LLM OR "foundation model" OR transformer OR "generative ai" OR GPT OR "function calling" OR "tool use" OR "tool invocation" OR "API call*" OR planner OR "task decomposition" OR reflection OR "self-reflect*" OR "self-correct*" OR memory OR "workflow orchestr*" )
+
+The Boolean expression defines the retrieval specification. The analytical corpus count refers to the 7,584 simple patent families retained in the manuscript; it is not a live search-interface hit count.

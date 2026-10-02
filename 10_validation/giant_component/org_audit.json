@@ -1,0 +1,43 @@
+{
+  "nodes": 41,
+  "unique_undirected_edges": 125,
+  "components": 1,
+  "largest_component_nodes": 41,
+  "largest_component_edges": 125,
+  "largest_component_node_fraction": 1.0,
+  "component_sizes_descending": [
+    41
+  ],
+  "independent_weighted_modularity": 0.5757365869252491,
+  "independent_weighted_communities": 6,
+  "weighted_louvain_seeds": [
+    0,
+    1,
+    2,
+    3,
+    4
+  ],
+  "weighted_component_partition_modularity": 0.0,
+  "giant_component_weighted_modularity": 0.5757365869252491,
+  "giant_component_communities": 6,
+  "binary_degree_preserving_null": {
+    "observed_best_of_5_modularity": 0.595136,
+    "random_graphs": 100,
+    "accepted_swaps_each": 2500,
+    "seeds_start": 20261002,
+    "louvain_seeds": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "null_mean": 0.28630367999999995,
+    "null_sd": 0.014585369746565921,
+    "null_min": 0.256032,
+    "null_max": 0.33952,
+    "empirical_upper_tail_p": 0.009900990099009901,
+    "z_score": 21.174116622769446,
+    "preserves": "node degree sequence and edge count; not components or weighted strengths"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "source": "Original applicants in the supplied Lens export",
+  "unique_original_names": 2636,
+  "blocking": "First three characters after uppercase Unicode decomposition and replacement of punctuation by spaces",
+  "candidate_floor": 0.75,
+  "candidate_threshold": 0.9,
+  "similarity": "1 - Levenshtein distance / maximum normalized-name length",
+  "seed": 20261002,
+  "candidate_pool": 212,
+  "selected_pairs": 100,
+  "strata_pool": {
+    "at_or_above_0.90": 60,
+    "0.75_to_below_0.90": 152
+  },
+  "interpretation": "Prospective pair validation. This is not the original adjudication log, does not estimate errors outside the blocking scheme, and is not a global false-merge or false-split rate."
+}

@@ -1,0 +1,25 @@
+{
+  "sample_size_author_confirmed": 200,
+  "strict": {
+    "confirmed_relevant": 58,
+    "confirmed_nonrelevant": 87,
+    "ambiguous": 55,
+    "confirmed_positive_proportion": 0.29,
+    "wilson_95_percent": [
+      23.2,
+      35.6
+    ]
+  },
+  "broad": {
+    "confirmed_relevant": 114,
+    "confirmed_nonrelevant": 74,
+    "ambiguous": 12,
+    "confirmed_positive_proportion": 0.57,
+    "wilson_95_percent": [
+      50.1,
+      63.7
+    ]
+  },
+  "sampling": "Excel RAND, author-led random selection",
+  "ledger_status": "Author must provide the final complete record-level ledger before this folder is treated as the public validation deposit."
+}

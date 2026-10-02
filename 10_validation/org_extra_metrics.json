@@ -1,0 +1,8 @@
+{
+  "mean_local_clustering_including_degree_under_2_as_zero": 0.499412987476283,
+  "unweighted_diameter_across_components": 7,
+  "mean_finite_unweighted_path_length": 2.049539985845718,
+  "finite_ordered_node_pairs": 5652,
+  "density": 0.0036130423586970516,
+  "average_weighted_degree": 3.8125
+}

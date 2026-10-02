@@ -1,0 +1,11 @@
+{
+  "nodes": 5957,
+  "edges": 194172,
+  "communities": 7,
+  "weighted_modularity_of_supplied_partition": 0.17452541559116433,
+  "binary_modularity_of_supplied_partition": 0.15219671610602348,
+  "components": 1,
+  "largest_component_nodes": 5957,
+  "average_degree": 65.19120362598623,
+  "average_weighted_degree": 105.09115326506631
+}
