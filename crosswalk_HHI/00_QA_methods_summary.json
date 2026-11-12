@@ -1,0 +1,72 @@
+{
+  "script_version": "1.0.0-2026-11-12",
+  "archive_sha256": "45717688ff6fc34fda1c3995ae005b8fc2b733837318c3b6d7b6261109c0c610",
+  "networkx_version": "3.7",
+  "numpy_version": "2.5.4",
+  "input_families": 7604,
+  "families_with_applicant": 7604,
+  "families_with_lexical_profile": 7585,
+  "crosswalk_included_families": 7585,
+  "crosswalk_skipped_families": 19,
+  "crosswalk_single_applicant_families": 7062,
+  "crosswalk_multi_applicant_families": 523,
+  "families_with_more_than_one_organizational_group": 4,
+  "families_with_more_than_one_technology_community": 7329,
+  "graph_nodes": 864,
+  "graph_edges": 1347,
+  "graph_components": 262,
+  "louvain_seed_scores": [
+    {
+      "seed": 0,
+      "weighted_modularity": 0.9724823960991061,
+      "communities": 265
+    },
+    {
+      "seed": 1,
+      "weighted_modularity": 0.9724503236551969,
+      "communities": 264
+    },
+    {
+      "seed": 2,
+      "weighted_modularity": 0.9724823960991061,
+      "communities": 265
+    },
+    {
+      "seed": 3,
+      "weighted_modularity": 0.9724503236551969,
+      "communities": 264
+    },
+    {
+      "seed": 4,
+      "weighted_modularity": 0.9724503236551969,
+      "communities": 264
+    }
+  ],
+  "selected_seed": 0,
+  "selected_modularity": 0.9724823960991061,
+  "total_organizational_communities": 265,
+  "crosswalk_group_definition": "Eight largest by node count (not the authors' earlier hand-picked eight); all others grouped; labels absent from coapplication graph in NO_COAPPLICATION_NODE",
+  "technology_source_columns": [
+    "community_0",
+    "community_1",
+    "community_2",
+    "community_3",
+    "community_4",
+    "community_5",
+    "community_7"
+  ],
+  "total_fractional_flow": 7584.999999999999,
+  "permutations_per_null": 1000,
+  "seed": 20261112,
+  "null_hypothesis_global": "Technology mixture vectors are exchangeable among eligible patent families, with fixed observed technology-vector distribution and fixed applicant-group vectors",
+  "null_hypothesis_stratified": "Same exchangeability conditional on number of applicants: single-applicant vs multiple-applicant family",
+  "crosswalk_statistic": "Pearson-form sum((observed-expected)^2/expected), calibrated by permutation, NOT theoretical chi-square p-values",
+  "cell_pvalue": "Two-sided absolute observed-minus-expected tail; p=(b+1)/(B+1); BH adjusted over all 70 cells separately per null design",
+  "global_stat_observed": 351.00415595305367,
+  "global_stat_p": 0.000999000999000999,
+  "stratified_stat_observed": 339.01085686715675,
+  "stratified_stat_p": 0.000999000999000999,
+  "reviewed_same_entity_pair_count": 50,
+  "caveat": "These tests permute patent families, not inventor groups or linked applicant portfolios. Repeated applicants may induce dependencies. They are exploratory conditional tests; no industrial market or supply concentration is measured.",
+  "open_source_overlap": "8.5 percent cannot be established from this archive without the open-source project sample, matching identifiers and denominator."
+}

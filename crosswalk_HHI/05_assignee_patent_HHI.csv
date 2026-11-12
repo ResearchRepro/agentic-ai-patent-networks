@@ -1,0 +1,33 @@
+﻿patent_scope,identity_rule,credit_rule,families_with_nonzero_scope_mass,credit_mass,number_applicant_labels,HHI_0_to_10000,top_applicant_label,top_applicant_share_pct
+ALL_FAMILIES,original_applicant_labels,fractional_per_family,7604,7604.0,2636,198.897942,NVIDIA CORP,12.09232
+ALL_FAMILIES,original_applicant_labels,full_per_applicant,7604,8441.0,2636,165.785407,NVIDIA CORP,10.982111
+ALL_FAMILIES,manually_reviewed_merges_only,fractional_per_family,7604,7604.0,2589,199.662753,NVIDIA CORP,12.09232
+ALL_FAMILIES,manually_reviewed_merges_only,full_per_applicant,7604,8441.0,2589,166.418385,NVIDIA CORP,10.982111
+community_0,original_applicant_labels,fractional_per_family,5889,2135.91774,2156,157.591486,NVIDIA CORP,7.777829
+community_0,original_applicant_labels,full_per_applicant,5889,2343.00531,2156,135.08689,NVIDIA CORP,7.155881
+community_0,manually_reviewed_merges_only,fractional_per_family,5889,2135.91774,2119,160.164564,NVIDIA CORP,7.777829
+community_0,manually_reviewed_merges_only,full_per_applicant,5889,2343.00531,2119,137.256966,NVIDIA CORP,7.155881
+community_1,original_applicant_labels,fractional_per_family,5344,1596.70677,1888,596.817501,NVIDIA CORP,23.45339
+community_1,original_applicant_labels,full_per_applicant,5344,1782.03802,1888,492.80826,NVIDIA CORP,21.179873
+community_1,manually_reviewed_merges_only,fractional_per_family,5344,1596.70677,1854,597.237209,NVIDIA CORP,23.45339
+community_1,manually_reviewed_merges_only,full_per_applicant,5344,1782.03802,1854,493.177047,NVIDIA CORP,21.179873
+community_2,original_applicant_labels,fractional_per_family,5712,1887.19944,2279,80.79241,NVIDIA CORP,6.063125
+community_2,original_applicant_labels,full_per_applicant,5712,2095.56213,2279,67.571198,NVIDIA CORP,5.487831
+community_2,manually_reviewed_merges_only,fractional_per_family,5712,1887.19944,2246,81.01175,NVIDIA CORP,6.063125
+community_2,manually_reviewed_merges_only,full_per_applicant,5712,2095.56213,2246,67.757069,NVIDIA CORP,5.487831
+community_3,original_applicant_labels,fractional_per_family,3709,807.74996,1542,118.061543,NVIDIA CORP,6.960904
+community_3,original_applicant_labels,full_per_applicant,3709,910.17784,1542,100.459979,NVIDIA CORP,6.252674
+community_3,manually_reviewed_merges_only,fractional_per_family,3709,807.74996,1515,118.401567,NVIDIA CORP,6.960904
+community_3,manually_reviewed_merges_only,full_per_applicant,3709,910.17784,1515,100.745506,NVIDIA CORP,6.252674
+community_4,original_applicant_labels,fractional_per_family,2015,375.5123,1089,143.881219,CERNER INNOVATION INC,8.728439
+community_4,original_applicant_labels,full_per_applicant,2015,429.89928,1089,113.987792,CERNER INNOVATION INC,7.719355
+community_4,manually_reviewed_merges_only,fractional_per_family,2015,375.5123,1077,144.227943,CERNER INNOVATION INC,8.728439
+community_4,manually_reviewed_merges_only,full_per_applicant,2015,429.89928,1077,114.292165,CERNER INNOVATION INC,7.719355
+community_5,original_applicant_labels,fractional_per_family,3454,779.07332,1386,687.387156,NVIDIA CORP,24.163671
+community_5,original_applicant_labels,full_per_applicant,3454,857.38603,1386,578.450052,NVIDIA CORP,22.160981
+community_5,manually_reviewed_merges_only,fractional_per_family,3454,779.07332,1361,689.783043,NVIDIA CORP,24.163671
+community_5,manually_reviewed_merges_only,full_per_applicant,3454,857.38603,1361,580.444589,NVIDIA CORP,22.160981
+community_7,original_applicant_labels,fractional_per_family,14,2.84049,13,1722.532061,ARCHITECTURE TECH CORP,29.337689
+community_7,original_applicant_labels,full_per_applicant,14,2.9314,13,1631.776015,ARCHITECTURE TECH CORP,28.427863
+community_7,manually_reviewed_merges_only,fractional_per_family,14,2.84049,12,1727.653582,ARCHITECTURE TECH CORP,29.337689
+community_7,manually_reviewed_merges_only,full_per_applicant,14,2.9314,12,1651.011163,ARCHITECTURE TECH CORP,28.427863
